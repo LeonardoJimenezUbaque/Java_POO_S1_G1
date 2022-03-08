@@ -88,7 +88,3 @@ public class Main {
      
         }    
     }
-    
-/*
-preguntar al usuario cuantas veces quiere que el gato juegue y ponerlo a jugar esa cantidad de veces con un ciclo
-*/
